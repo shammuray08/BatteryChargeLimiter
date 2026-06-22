@@ -232,5 +232,13 @@
     "chargeOn": "1",
     "chargeOff": "0",
     "experimental": true
+  },
+  {
+    "file": "/sys/devices/platform/soc/soc:qcom,pmic_glink/soc:qcom,pmic_glink:qcom,battery_charger/power_supply/battery/charge_control_limit",
+    "label": "charge_control_limit (PMIC Glink)",
+    "details": "Xiaomi Redmi Note 13 Pro 5G [garnet] / POCO X6 5G",
+    "chargeOn": "16",
+    "chargeOff": "0",
+    "experimental": true
   }
 ]
